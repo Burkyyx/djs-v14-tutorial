@@ -20,7 +20,7 @@ import RegisterCommand from './commands/register.js';
 
 config();
 
-const TOKEN = process.env.TUTORIAL_BOT_TOKEN;
+const TOKEN = 'NjkwNjg3ODQ0ODQyMzQwMzYy.GBbzAs.cFH0Ce2sAz_uB4QxKtGj5ANDvKcAsO-fvHocEo';
 const CLIENT_ID = process.env.CLIENT_ID;
 const GUILD_ID = process.env.GUILD_ID;
 
